@@ -1,11 +1,10 @@
-
-
-.hype:hover
+@media(max-width:500px)
 {
-color:blueviolet;
-
+.luminarimg
+{
+    width:200px;
+    height: 50px;
 }
-.l1
-{
-    text-decoration: none;
+
+
 }
