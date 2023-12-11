@@ -1,42 +1,13 @@
-
+.outerpo
+{
+  width: 100%;
+}
 .slideimg
 {
     width:100%;
     height: 500px;
 }
-@media(max-width:500px)
-{
-.luminarimg
-{
-    width:200px;
-    height: 50px;
 
-}
-
-
-h1{
-    font-size: 15px;
-
-}
-
-p{
-    font-size: 10px;
-}
-.btnviewcourse
-  {
-    height:35px;
-width:80px;
-font-size:12px;
-border-radius:20px;
-background-color: rgb(184, 174, 184);
-  }
-  .subbtn
-  {
-    height: 20px;
-    width: 80;
-    font-size: 15;
-  }
-}
 h1
 {
     font-size: 52px;
@@ -64,3 +35,154 @@ margin-top: 25px;
     color: white;
 
   }
+  .imggirl
+  {
+    width:100%;
+  }
+ 
+  .headpara1{
+    font-size: 30px;
+    color: #5e068a99;
+    padding-left:50px;
+    padding-right:50px; 
+  }
+  .headpara2{
+    font-size:15px ;
+    color: #5e068a;
+    padding-left:50px;
+    padding-right:50px;
+  }
+  .paramain
+  {
+   
+   
+  }
+  .para{
+    padding-left:50px;
+    padding-right:50px;
+  }
+ .ourcourses
+ {
+  
+  width: 100%;
+ background-color:rgb(245,245,245);
+ }
+
+.our
+{
+  font-size: 30px;
+  padding-top: 70px;
+  padding-bottom: 35px;
+}
+.sp1
+{
+color:#5e068a;
+}
+.sp2
+{
+  color: rgb(158,106,185);
+}
+
+.rd{
+  padding-left: 35px;
+  padding-right: 35px;
+
+}
+.dataimg
+{
+  height: 385px;
+  width: 475px;
+  background-color: white;
+  
+}
+.datadesc
+{
+  height: 385px;
+  width: 475px;
+  background-color: white;
+}
+.headdata
+{
+  color:#5e068a;
+  font-size: 20px;
+
+}
+ 
+.para2
+{
+font-size:15px;
+color: rgb(46, 45, 45);
+}
+
+.lis{
+ font-size:15px;
+color:black;
+
+}
+
+.lin
+{
+  text-decoration: none;
+  color:#5e068a;
+  font-size: 15px;
+}
+.rcard
+{
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 25px;
+}
+
+.rcard1
+{
+  margin-right: 35px;
+  
+}
+.rcard2
+{
+  margin-right: 35px;
+}
+.viewallcourse
+{
+  width: 170px;
+  height: 60px;
+  border-radius: 60px;
+  border-color: #5e068a;
+  background-color: white;
+  color: #5e068a;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+@media(max-width:500px)
+{
+.luminarimg
+{
+    width:200px;
+    height: 50px;
+
+}
+
+
+h1{
+    font-size: 15px;
+
+}
+
+p{
+    font-size: 10px;
+}
+.btnviewcourse
+  {
+    height:35px;
+width:90px;
+font-size:10px;
+border-radius:18px;
+background-color:#5e068a99;
+  }
+  .subbtn
+  {
+    height: 20px;
+    width: 80;
+    font-size: 15;
+  }
+}
